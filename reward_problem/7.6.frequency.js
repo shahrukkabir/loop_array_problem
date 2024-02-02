@@ -1,5 +1,3 @@
-
-
 //Frequency Array
 
 const frequencyArray = [ 0 , 0 , 0 , 0 , 0 , 0 ,0]
